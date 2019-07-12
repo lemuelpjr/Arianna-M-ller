@@ -1,0 +1,21 @@
+/* Import Google font Open-Sans to set as default font family */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+/* Set no extra padding and margin to all elements */
+*,
+*::before,
+*::after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  /* Set general font weight to normal */
+  font-weight: normal;
+}
+
+/* Set default font size to 10px and font family to Open Sans */
+html {
+  font-size: 62.5%;
+  font-family: 'Open Sans', sans-serif;
+  width: 100%;
+  overflow-x: hidden;
+}
