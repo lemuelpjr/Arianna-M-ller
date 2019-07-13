@@ -1,0 +1,16 @@
+/* Colors for reference:
+#f09
+#60f
+#90f
+#eee */
+
+/*
+### GLOBAL STYLES ###
+*/
+/* Holds the content into a comfortable width for reading */
+.container {
+  max-width: 960px;
+  margin: auto;
+  padding: 0 15px;
+  position: relative;
+}
