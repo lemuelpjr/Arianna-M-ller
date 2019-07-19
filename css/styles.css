@@ -3,10 +3,11 @@
 #60f
 #90f
 #eee
-#333 */
+#ddd
+#2e1c4a */
 
 /*
-### GLOBAL STYLES ###
+##### GLOBAL STYLES #####
 */
 /* Holds the content into a comfortable width for reading */
 .container {
@@ -14,4 +15,8 @@
   margin: auto;
   padding: 0 15px;
   position: relative;
+}
+
+header {
+  height: 100vh;
 }
