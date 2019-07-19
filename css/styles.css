@@ -20,3 +20,10 @@
 header {
   height: 100vh;
 }
+
+/* Hides navigation menu and social media icons for small screens */
+nav,
+#icon-bar {
+  display: none;
+  z-index: 2;
+}
