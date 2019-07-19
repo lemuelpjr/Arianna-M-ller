@@ -1,5 +1,5 @@
 /* Import Google font Open-Sans to set as default font family */
-@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400&display=swap');
 
 *,
 *::before,
@@ -13,7 +13,7 @@
   width: 100%;
   /* Set general font-size and font weight */
   font-size: 100%;
-  font-weight: normal;
+  font-weight: 300;
 }
 
 html {

@@ -27,3 +27,47 @@ nav,
   display: none;
   z-index: 2;
 }
+
+/*
+##### SHOWCASE STYLES #####
+*/
+#showcase {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+#title span {
+  background-color: #2e1c4a;
+  color: #f09;
+  font-size: 6rem;
+  line-height: 1.1;
+  padding: 0 5px;
+}
+
+#brand {
+  color: #2e1c4a;
+  font-size: 2rem;
+  font-weight: 400;
+  margin: 1rem 0 6rem 0;
+}
+
+#brand span {
+  color: #f09;
+  font-weight: 400;
+}
+
+/* #cta {
+  color: #222;
+  background-color: #f09;
+  font-size: 2rem;
+  text-decoration: none;
+  padding: 8px 20px;
+  border-radius: 10px;
+}
+
+#cta:hover {
+  color: #f09;
+  background-color: #222;
+  transition: .3s;
+} */
