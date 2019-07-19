@@ -1,10 +1,10 @@
 /* Colors for reference:
-#f09
-#60f
-#90f
-#eee
-#ddd
-#2e1c4a */
+#f09 hot pink
+#60f blue
+#90f violet
+#eee light gray
+#ddd darker gray
+#2e1c4a dark blue */
 
 /*
 ##### GLOBAL STYLES #####
@@ -31,10 +31,16 @@ nav,
 /*
 ##### SHOWCASE STYLES #####
 */
+/* Center header text vertically */
 #showcase {
   height: 100vh;
   display: flex;
   align-items: center;
+}
+
+#header-content {
+  position: relative;
+  z-index: 2;
 }
 
 #title span {
@@ -64,4 +70,11 @@ nav,
   text-decoration: none;
   padding: 4px 20px;
   border: solid 1px #f09;
+}
+
+#hero-img {
+  height: 70vh;
+  position: absolute;
+  top: 38%;
+  right: -130px;
 }
