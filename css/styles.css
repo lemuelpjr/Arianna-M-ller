@@ -55,7 +55,7 @@ nav,
   color: #2e1c4a;
   font-size: 2rem;
   font-weight: 400;
-  margin: 1rem 0 6rem 0;
+  margin: 1.5rem 0 6rem 0;
 }
 
 #brand span {
@@ -77,4 +77,18 @@ nav,
   position: absolute;
   top: 38%;
   right: -130px;
+}
+
+/*
+##### SHOWCASE STYLES #####
+*/
+#content {
+  background-color: #fff;
+}
+
+/*
+##### FOOTER / CONTACT STYLES #####
+*/
+footer {
+  background-color: #2e1c4a;
 }
