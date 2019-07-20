@@ -1,6 +1,6 @@
-# Arianna M�ller DJ landing page
+# Arianna Müller DJ landing page
 
-A landing page website for a DJ and music producer persona called Arianna M�ller.
+A landing page website for a DJ and music producer persona called Arianna Müller.
 
 The code to implement the design is in pause for now. I will be back to it after Sempter 2, 2019.
 
